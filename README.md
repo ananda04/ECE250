@@ -1,3 +1,5 @@
+**PROJECT DESCRIPTIONS**
+--------------------------
 This repository contains some of my work for ECE 250: Computer Architecture taught at Duke by Prof. Sorin.
 
 Homework 1: 3 simple programing projects in C including writing "Hello World!", squaring numbers, and writing a welcome program
@@ -14,6 +16,8 @@ Homework 6: A single-core CPU which runs MIPS assembly. Includes hardware such a
 
 Homework 7: Created a C program to simulate a cache based on a configuration provided through the command line. The configuration includes the name of the file containing load and store commands, the cache size in KB, the associativity, and the block size in bytes. The program should process the commands from the file, simulate the cache behavior, and output to the console whether each load or store operation results in a hit or a miss.
 
+**DISCLAIMER**
+--------------
 When looking at this repository remember to uphold the DUKE COMMUNITY STANDARD.
 
 To uphold the Duke Community Standard:

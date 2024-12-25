@@ -1,0 +1,33 @@
+{
+  "mode": "spim",
+  "output_filters": ["filter_spim", "filter_remove_colon_prompts"],
+  "test_suites": {
+    "sequence": {
+      "tests": [
+        { "desc": "n = 1",  "stdin": "tests/sequence_input_0.txt"},
+        { "desc": "n = 2",  "stdin": "tests/sequence_input_1.txt"},
+        { "desc": "n = 4",  "stdin": "tests/sequence_input_2.txt"},
+        { "desc": "n = 7",  "stdin": "tests/sequence_input_3.txt"},
+        { "desc": "n = 10",  "stdin": "tests/sequence_input_4.txt"}
+      ]
+    },
+    "recurse": {
+      "tests": [
+        { "desc": "n = 0",  "stdin": "tests/recurse_input_0.txt"},
+        { "desc": "n = 2",  "stdin": "tests/recurse_input_1.txt"},
+        { "desc": "n = 4",  "stdin": "tests/recurse_input_2.txt"},
+        { "desc": "n = 7",  "stdin": "tests/recurse_input_3.txt"}
+      ]
+    },
+    "golf": {
+      "tests": [
+        { "desc": "One golfer",                     "stdin": "tests/golf_input_0.txt"},
+        { "desc": "Two golfer, in order",          "stdin": "tests/golf_input_1.txt"},
+        { "desc": "Two golfer, out of order",      "stdin": "tests/golf_input_2.txt"},
+        { "desc": "Six golfers",                    "stdin": "tests/golf_input_3.txt"},
+        { "desc": "Stop reading at DONE",         "stdin": "tests/golf_input_4.txt"},
+        { "desc": "100 golfers",                    "stdin": "tests/golf_input_5.txt"}
+      ]
+    }
+  }
+}

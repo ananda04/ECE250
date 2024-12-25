@@ -1,0 +1,300 @@
+  0       out         out_blocked           0
+  0       out         out_position          0
+
+  1re     out         out_blocked           0
+  1re     out         out_position          0
+
+  2re     out         out_blocked           0
+  2re     out         out_position          1
+
+  3re     out         out_blocked           0
+  3re     out         out_position          2
+
+  4re     out         out_blocked           0
+  4re     out         out_position          3
+
+  5re     out         out_blocked           0
+  5re     out         out_position          1
+
+  6re     out         out_blocked           0
+  6re     out         out_position          1
+
+  7re     out         out_blocked           0
+  7re     out         out_position          1
+
+  8re     out         out_blocked           0
+  8re     out         out_position          1
+
+  9re     out         out_blocked           0
+  9re     out         out_position          0
+
+  10re    out         out_blocked           1
+  10re    out         out_position          0
+
+  11re    out         out_blocked           0
+  11re    out         out_position          0
+
+  12re    out         out_blocked           0
+  12re    out         out_position          0
+
+  13re    out         out_blocked           1
+  13re    out         out_position          0
+
+  14re    out         out_blocked           0
+  14re    out         out_position          1
+
+  15re    out         out_blocked           0
+  15re    out         out_position          3
+
+  16re    out         out_blocked           0
+  16re    out         out_position          2
+
+  17re    out         out_blocked           0
+  17re    out         out_position          3
+
+  18re    out         out_blocked           0
+  18re    out         out_position          2
+
+  19re    out         out_blocked           0
+  19re    out         out_position          2
+
+  20re    out         out_blocked           0
+  20re    out         out_position          2
+
+  21re    out         out_blocked           0
+  21re    out         out_position          2
+
+  22re    out         out_blocked           0
+  22re    out         out_position          0
+
+  23re    out         out_blocked           0
+  23re    out         out_position          0
+
+  24re    out         out_blocked           0
+  24re    out         out_position          2
+
+  25re    out         out_blocked           0
+  25re    out         out_position          1
+
+  26re    out         out_blocked           0
+  26re    out         out_position          2
+
+  27re    out         out_blocked           0
+  27re    out         out_position          2
+
+  28re    out         out_blocked           0
+  28re    out         out_position          2
+
+  29re    out         out_blocked           0
+  29re    out         out_position          3
+
+  30re    out         out_blocked           0
+  30re    out         out_position          3
+
+  31re    out         out_blocked           1
+  31re    out         out_position          3
+
+  32re    out         out_blocked           0
+  32re    out         out_position          1
+
+  33re    out         out_blocked           0
+  33re    out         out_position          0
+
+  34re    out         out_blocked           0
+  34re    out         out_position          1
+
+  35re    out         out_blocked           0
+  35re    out         out_position          3
+
+  36re    out         out_blocked           0
+  36re    out         out_position          2
+
+  37re    out         out_blocked           0
+  37re    out         out_position          3
+
+  38re    out         out_blocked           0
+  38re    out         out_position          1
+
+  39re    out         out_blocked           0
+  39re    out         out_position          0
+
+  40re    out         out_blocked           0
+  40re    out         out_position          0
+
+  41re    out         out_blocked           0
+  41re    out         out_position          0
+
+  42re    out         out_blocked           1
+  42re    out         out_position          0
+
+  43re    out         out_blocked           1
+  43re    out         out_position          0
+
+  44re    out         out_blocked           0
+  44re    out         out_position          0
+
+  45re    out         out_blocked           0
+  45re    out         out_position          0
+
+  46re    out         out_blocked           0
+  46re    out         out_position          1
+
+  47re    out         out_blocked           0
+  47re    out         out_position          0
+
+  48re    out         out_blocked           1
+  48re    out         out_position          0
+
+  49re    out         out_blocked           0
+  49re    out         out_position          0
+
+  50re    out         out_blocked           0
+  50re    out         out_position          0
+
+  51re    out         out_blocked           0
+  51re    out         out_position          0
+
+  52re    out         out_blocked           1
+  52re    out         out_position          0
+
+  53re    out         out_blocked           0
+  53re    out         out_position          1
+
+  54re    out         out_blocked           0
+  54re    out         out_position          1
+
+  55re    out         out_blocked           0
+  55re    out         out_position          0
+
+  56re    out         out_blocked           1
+  56re    out         out_position          0
+
+  57re    out         out_blocked           0
+  57re    out         out_position          1
+
+  58re    out         out_blocked           0
+  58re    out         out_position          1
+
+  59re    out         out_blocked           0
+  59re    out         out_position          2
+
+  60re    out         out_blocked           0
+  60re    out         out_position          2
+
+  61re    out         out_blocked           0
+  61re    out         out_position          3
+
+  62re    out         out_blocked           0
+  62re    out         out_position          2
+
+  63re    out         out_blocked           0
+  63re    out         out_position          2
+
+  64re    out         out_blocked           0
+  64re    out         out_position          0
+
+  65re    out         out_blocked           1
+  65re    out         out_position          0
+
+  66re    out         out_blocked           1
+  66re    out         out_position          0
+
+  67re    out         out_blocked           0
+  67re    out         out_position          2
+
+  68re    out         out_blocked           0
+  68re    out         out_position          0
+
+  69re    out         out_blocked           0
+  69re    out         out_position          2
+
+  70re    out         out_blocked           0
+  70re    out         out_position          3
+
+  71re    out         out_blocked           0
+  71re    out         out_position          1
+
+  72re    out         out_blocked           0
+  72re    out         out_position          0
+
+  73re    out         out_blocked           0
+  73re    out         out_position          2
+
+  74re    out         out_blocked           0
+  74re    out         out_position          3
+
+  75re    out         out_blocked           0
+  75re    out         out_position          2
+
+  76re    out         out_blocked           0
+  76re    out         out_position          3
+
+  77re    out         out_blocked           0
+  77re    out         out_position          1
+
+  78re    out         out_blocked           0
+  78re    out         out_position          0
+
+  79re    out         out_blocked           0
+  79re    out         out_position          1
+
+  80re    out         out_blocked           0
+  80re    out         out_position          0
+
+  81re    out         out_blocked           1
+  81re    out         out_position          0
+
+  82re    out         out_blocked           0
+  82re    out         out_position          0
+
+  83re    out         out_blocked           0
+  83re    out         out_position          0
+
+  84re    out         out_blocked           1
+  84re    out         out_position          0
+
+  85re    out         out_blocked           0
+  85re    out         out_position          1
+
+  86re    out         out_blocked           0
+  86re    out         out_position          2
+
+  87re    out         out_blocked           0
+  87re    out         out_position          0
+
+  88re    out         out_blocked           0
+  88re    out         out_position          1
+
+  89re    out         out_blocked           0
+  89re    out         out_position          0
+
+  90re    out         out_blocked           0
+  90re    out         out_position          2
+
+  91re    out         out_blocked           0
+  91re    out         out_position          3
+
+  92re    out         out_blocked           0
+  92re    out         out_position          3
+
+  93re    out         out_blocked           0
+  93re    out         out_position          2
+
+  94re    out         out_blocked           0
+  94re    out         out_position          3
+
+  95re    out         out_blocked           0
+  95re    out         out_position          3
+
+  96re    out         out_blocked           1
+  96re    out         out_position          3
+
+  97re    out         out_blocked           1
+  97re    out         out_position          3
+
+  98re    out         out_blocked           0
+  98re    out         out_position          3
+
+  99re    out         out_blocked           1
+  99re    out         out_position          3
+

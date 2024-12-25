@@ -1,0 +1,33 @@
+  0       out         out_blocked           0
+  0       out         out_position          0
+
+  1re     out         out_blocked           0
+  1re     out         out_position          0
+
+  2re     out         out_blocked           0
+  2re     out         out_position          1
+
+  3re     out         out_blocked           0
+  3re     out         out_position          2
+
+  4re     out         out_blocked           0
+  4re     out         out_position          3
+
+  5re     out         out_blocked           0
+  5re     out         out_position          2
+
+  6re     out         out_blocked           0
+  6re     out         out_position          1
+
+  7re     out         out_blocked           0
+  7re     out         out_position          0
+
+  8re     out         out_blocked           1
+  8re     out         out_position          0
+
+  9re     out         out_blocked           1
+  9re     out         out_position          0
+
+  10re    out         out_blocked           1
+  10re    out         out_position          0
+

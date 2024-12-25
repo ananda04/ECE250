@@ -1,0 +1,63 @@
+  0       out         out_blocked           0
+  0       out         out_position          0
+
+  1re     out         out_blocked           0
+  1re     out         out_position          0
+
+  2re     out         out_blocked           0
+  2re     out         out_position          1
+
+  3re     out         out_blocked           0
+  3re     out         out_position          3
+
+  4re     out         out_blocked           0
+  4re     out         out_position          1
+
+  5re     out         out_blocked           0
+  5re     out         out_position          1
+
+  6re     out         out_blocked           0
+  6re     out         out_position          2
+
+  7re     out         out_blocked           0
+  7re     out         out_position          3
+
+  8re     out         out_blocked           0
+  8re     out         out_position          2
+
+  9re     out         out_blocked           0
+  9re     out         out_position          0
+
+  10re    out         out_blocked           0
+  10re    out         out_position          1
+
+  11re    out         out_blocked           0
+  11re    out         out_position          0
+
+  12re    out         out_blocked           0
+  12re    out         out_position          0
+
+  13re    out         out_blocked           0
+  13re    out         out_position          2
+
+  14re    out         out_blocked           0
+  14re    out         out_position          3
+
+  15re    out         out_blocked           1
+  15re    out         out_position          3
+
+  16re    out         out_blocked           0
+  16re    out         out_position          3
+
+  17re    out         out_blocked           0
+  17re    out         out_position          3
+
+  18re    out         out_blocked           0
+  18re    out         out_position          3
+
+  19re    out         out_blocked           0
+  19re    out         out_position          3
+
+  20re    out         out_blocked           0
+  20re    out         out_position          3
+

@@ -1,0 +1,35 @@
+{
+  "mode": "exe",
+  "penalty_exitcode_nonzero": 0.75,
+  "stdin": "/dev/null",
+  "test_suites": {
+    "sequence": {
+      "tests": [
+        { "desc": "n = 1",  "args": ["1"]},
+        { "desc": "n = 2",  "args": ["2"]},
+        { "desc": "n = 4",  "args": ["4"]},
+        { "desc": "n = 7",  "args": ["7"]},
+        { "desc": "n = 10", "args": ["10"]}
+      ]
+    },
+    "recurse": {
+      "tests": [
+        { "desc": "n = 0",  "args": ["0"]},
+        { "desc": "n = 2",  "args": ["2"]},
+        { "desc": "n = 4",  "args": ["4"]},
+        { "desc": "n = 7",  "args": ["7"]}
+      ]
+    },
+    "golf": {
+      "penalty_valgrind": 0.50,
+      "tests": [
+        { "desc": "One golfer",                     "args": ["tests/golf_input_0.txt"]},
+        { "desc": "Two golfer, in order",          "args": ["tests/golf_input_1.txt"]},
+        { "desc": "Two golfer, out of order",      "args": ["tests/golf_input_2.txt"]},
+        { "desc": "Six golfers",                    "args": ["tests/golf_input_3.txt"]},
+        { "desc": "Stop reading at DONE",         "args": ["tests/golf_input_4.txt"]},
+        { "desc": "100 golfers",                    "args": ["tests/golf_input_5.txt"]}
+      ]
+    }
+  }
+}

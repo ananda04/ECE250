@@ -1,0 +1,15 @@
+{
+  "mode": "exe",
+  "penalty_exitcode_nonzero": 0.75,
+  "test_suites": {
+    "square": {
+      "tests": [
+        { "desc": "No arguments",  "args": []},
+        { "desc": "n = 1",  "args": ["1"]},
+        { "desc": "n = 2",  "args": ["2"]},
+        { "desc": "n = 4",  "args": ["4"]},
+        { "desc": "n = 7",  "args": ["7"]}
+      ]
+    }
+  }
+}
